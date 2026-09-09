@@ -1,0 +1,119 @@
+{
+  "allResumes": [
+    {
+      "fullName": "Navaneeth S",
+      "job": "Cybersecurity Analyst",
+      "location": "Kozhikode",
+      "email": "navaneeth@gmail.com",
+      "phone": "1234567890",
+      "github": "www.github.com",
+      "linkedin": "www.linkedin.com",
+      "portfolio": "linked",
+      "degree": "BCA",
+      "university": "MGU",
+      "passout": "2026",
+      "skills": [
+        "Network Security",
+        "Vulnerability Assessment",
+        "Penetration Testing",
+        "Security Monitoring",
+        "Incident Response",
+        "Risk Assessment",
+        "Firewalls",
+        "Encryption",
+        "Security Compliance",
+        "Threat Analysis"
+      ],
+      "summary": "Cybersecurity analyst focused on protecting systems and networks from cyber threats. Skilled in security monitoring, vulnerability assessment, and incident response.",
+      "id": "G_gjc5oPETs"
+    },
+    {
+      "fullName": "Sam",
+      "job": "Data Analyst",
+      "location": "kochi",
+      "email": "asasaasa",
+      "phone": "asasa",
+      "github": "asas",
+      "linkedin": "asasa",
+      "degree": "asdssads",
+      "university": "asdsa",
+      "passout": "asdasd",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "Pandas",
+        "NumPy"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, analyzing, and interpreting complex datasets to support business decisions. Experienced in data visualization and reporting tools.",
+      "id": "HnflYlb-GQg"
+    },
+    {
+      "fullName": "dsds",
+      "job": "DevOps Engineer",
+      "location": "asdsds",
+      "email": "sadasd",
+      "phone": "asdsad",
+      "github": "asdasdas",
+      "linkedin": "sadasdasd",
+      "degree": "sdasd",
+      "university": "sdsas",
+      "passout": "asdsadas",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "Linux",
+        "Jenkins",
+        "Terraform",
+        "Git",
+        "Monitoring",
+        "Infrastructure as Code"
+      ],
+      "summary": "DevOps engineer experienced in automating deployment pipelines, managing cloud infrastructure, and improving software delivery processes through CI/CD practices.",
+      "id": "iXkCS6CXp1w"
+    },
+    {
+      "fullName": "dsds",
+      "job": "DevOps Engineer",
+      "location": "asdsds",
+      "email": "sadasd",
+      "phone": "asdsad",
+      "github": "asdasdas",
+      "linkedin": "sadasdasd",
+      "degree": "sdasd",
+      "university": "sdsas",
+      "passout": "asdsadas",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "Linux",
+        "Jenkins",
+        "Terraform",
+        "Git",
+        "Monitoring",
+        "Infrastructure as Code"
+      ],
+      "summary": "DevOps engineer experienced in automating deployment pipelines, managing cloud infrastructure, and improving software delivery processes through CI/CD practices.",
+      "id": "Q_eYxPffS9k"
+    }
+  ],
+  "history": [
+    {
+      "timeStamp": "9/8/2026, 10:20:07 AM",
+      "resumeId": "G_gjc5oPETs",
+      "jobRole": "Cybersecurity Analyst",
+      "imageUrl": "https://res.cloudinary.com/agzuvspf/image/upload/v1788843007/dmj88ckslv0bu58wkopm.png",
+      "id": "LsYwfn_pKXg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
