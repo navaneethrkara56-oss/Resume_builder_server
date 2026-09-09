@@ -114,6 +114,5 @@
       "imageUrl": "https://res.cloudinary.com/agzuvspf/image/upload/v1788843007/dmj88ckslv0bu58wkopm.png",
       "id": "LsYwfn_pKXg"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
